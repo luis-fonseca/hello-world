@@ -1,2 +1,3 @@
 # hello-world
-Repositório de introdução
+Olá pessoas!
+Estou participando do tutorial para saber como se usa o Github!
